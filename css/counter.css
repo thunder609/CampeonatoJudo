@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,800,900&display=swap");
 @font-face {
   font-family: 'MiFuente';
-  src: url('/js/palmer.ttf') format('truetype');
+  /* src: url('/js/palmer.ttf') format('truetype'); */
 }
 * {
   margin: 0;
